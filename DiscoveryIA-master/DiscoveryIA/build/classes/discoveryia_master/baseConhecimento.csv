@@ -1,0 +1,49 @@
+REGRA,PERGUNTA,SE RESPOSTA TRUE,SE RESPOSTA FALSE,RESULTADO TRUE,RESULTADO FALSE 
+1,É um ser vivo?,2,25,0,0
+2,Possui estrutura óssea?,3,17,0,0
+3,Possui glândulas mamárias??,8,4,0,0
+4,Possui penas?,12,5,0,0
+5,Tem como característica ter uma pele seca?,14,6,0,0
+6,Tem escamas?,16,7,0,0
+7,Possui cauda?,0,0,a Salamandra,o Sapo
+8,Possui como habitat natural a terra?,9,11,0,0
+9,Pode voar?,0,10,o Morcego,0
+10,É selvagem?,0,0,o Tigre,o Gato
+11,Vive no mar?,0,0,a Baleia,o Peixe-boi
+12,Pode voar?,0,13,a Águia,0
+13,Pode viver em lugares frios como a Antártida?,0,0,o Pinguim,a Avestruz
+14,Possui patas?,15,0,0,a Cobra
+15,Possui carapaça?,0,0,a Tartaruga,o Jacaré
+16,Vive no mar?,0,0,o Peixe-espada,a Piranha
+17,Vive no mar ou em regiões litorâneas?,18,20,0,0
+18,É comum encontrá-lo nos manguezais?,0,19,o Carangueijo,0
+19,Possui pares de patas que funcionam como garras?,0,0,a Lagosta,o Camarão
+20,Possui oito patas?,21,22,0,0
+21,Pode tecer teia?,0,0,a Aranha,o Escorpião
+22,Costumam viver debaixo da terra?,23,24,0,0
+23,É um dos maiores agentes transmissores de doenças?,0,0,a Barata,a Formiga
+24,Produz mel?,0,0,a Abelha,a Borboleta
+25,É um meio de transporte?,29,26,0,0
+26,É um utensílio de cozinha?,33,27,0,0
+27,Precisa de energia para funcionar?,37,28,0,0
+28,É utilizado em salas de aulas?,41,45,0,0
+29,É utlizado para locomoção entre os bairros de uma cidade?,30,31,0,0
+30,Possui rodas?,0,0,a Moto,o Metrô
+31,Pode voar?,0,12,o Avião,0
+32,Pode se locomover debaixo da água?,0,0,o Submarino,o Navio
+33,Pode ser utlizado diretamente no fogo?,0,34,a Panela,0
+34,Retem líquidos?,35,36,0,0
+35,É utilizado com tampa?,0,0,o Pode, o Copo
+36,É utilizado para cortar comidas?,0,0,a Faca,Garfo
+37,Possui mouse?,0,38,Computador,0
+38,Precisa de antena para funcionar?,0,39,a Televisão,0
+39,Pode ser utilizado com um ou mais controles?,0,40,o Video Game,0
+40,Pode ser guardado no bolso da calça?,0,0,o Smartphone,o Aparelho de DVD
+41,É utilizado para escrever?,42,43,0,0
+42,Possui grafite?,0,0,o Lápis,a Caneta
+43,Pode guardar objetos?,0,44,o Estojo,0
+44,Pode apagar coisas que foram escritas?,0,0,a Borracha,o Livro
+45,Pode ser utilizado para caminhar?,0,46,o Tênis,0
+46,É utilizado por nadadores?,0,47,o Pé de pato,0
+47,É utilizado por alguns tipos de artes marciais?,0,48,a Luva de boxe,0
+48,É utilizado na cabeça?,0,0,a Touca de natação,a Bola

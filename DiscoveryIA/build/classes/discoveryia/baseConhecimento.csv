@@ -1,7 +1,7 @@
 REGRA,PERGUNTA,SE RESPOSTA TRUE,SE RESPOSTA FALSE,RESULTADO TRUE,RESULTADO FALSE 
 1,É um ser vivo?,2,25,0,0
 2,Possui estrutura óssea?,3,17,0,0
-3,A pele é coberta por pelos?,8,4,0,0
+3,Possui glândulas mamárias?,8,4,0,0
 4,Possui pena?,12,5,0,0
 5,Tem como característica ter uma pele seca?,14,6,0,0
 6,Tem escamas?,16,7,0,0
